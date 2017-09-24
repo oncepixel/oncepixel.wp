@@ -1,2 +1,0 @@
-# oncepixel.wp
-WP Oncepixel
